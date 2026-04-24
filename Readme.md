@@ -7,20 +7,20 @@ Aplicativo desenvolvido em React Native que permite ao usuário pesquisar filmes
 O sistema oferece uma interface simples e intuitiva para busca, exibe uma lista de filmes encontrados e permite visualizar detalhes completos de cada filme selecionado.
 ´´´
 # 🚀 Funcionalidades
-🔍 Buscar filmes pelo nome
-📃 Listar resultados com:
+- 🔍 Buscar filmes pelo nome
+- 📃 Listar resultados com:
 - Poster
 - Título
 - Data de lançamento
 - Breve descrição
-🎥 Visualizar detalhes do filme:
+- 🎥 Visualizar detalhes do filme:
 - Imagem ampliada
 - Nota (avaliação)
 - Sinopse completa
-🔙 Navegação entre telas (Home → Detalhes)
-🧹 Limpar busca
-✨ Animações na interface
-📡 Consumo de API externa (TMDB)
+- 🔙 Navegação entre telas (Home → Detalhes)
+- 🧹 Limpar busca
+- ✨ Animações na interface
+- 📡 Consumo de API externa (TMDB)
 ´´´
 # 🛠️ Tecnologias Utilizadas
 - React Native
@@ -78,7 +78,7 @@ https://www.themoviedb.org/
 - Botão de voltar
 # ⚠️ Observações
 Caso ocorra erro de bundling, execute:
-npx expo start -c
+npx expo start -c .
 Certifique-se de que todas as dependências estão instaladas corretamente.
 ´´´
 # 📌 Créditos
@@ -88,5 +88,5 @@ The Movie Database (TMDB)
 ´´´
 # 👨‍💻 Autor
 
-Natália da Silva Fernandes
-Desenvolvido para fins acadêmicos e prática com React Native.
+- Natália da Silva Fernandes
+- Desenvolvido para fins acadêmicos e prática com React Native.
